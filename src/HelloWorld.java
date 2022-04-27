@@ -4,7 +4,7 @@ public class HelloWorld {
 
         System.out.println("sdsdsd");
 
-        System.out.println();
+        System.out.println("asasdasd");
     }
 //asasas\
 
